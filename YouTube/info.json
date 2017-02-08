@@ -1,0 +1,10 @@
+
+{
+    "AUTHOR" : "OldManMarsh",
+    "SHORT" : "Retrieve Youtube Feeds, searches etc",
+    "DESCRIPTION" : "Allows you to retrieve public video feeds through the Youtube API, search for videos and more",
+    "DISABLED" : false,
+    "NAME" : "YouTube",
+    "TAGS" : ["YouTube", "Videos", "Feed"],
+    "INSTALL_MSG" : "Thank you for installing this cog! For more info, the source code and more, visit https://github.com/OldManMarsh/Marsh-Red-Cogs"
+}

@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "OldManMarsh",
+    "INSTALL_MSG" : "Thank you for installing Marsh's cogs for redbot! To learn more, visit https://github.com/OldManMarsh/Marsh-Red-Cogs",
+    "NAME" : "Marsh-Red-Cogs",
+    "SHORT" : "Search for Youtube videos; retrieve youtube feeds",
+    "DESCRIPTION" : "Planned features are to interact with the YouTube API in various ways. For example retrieving a list of a channels uploaded videos"
+}
